@@ -1,6 +1,3 @@
-# RealtimeProjectionMappingByViveTracker
-ViveTrackerを使ったリアルタイムプロジェクションマッピングのリポジトリです。
+# ViveVRProjection
 
-シュミレーション
-
-![result](https://github.com/fmacro/RealtimeProjectionMappingByViveTracker/blob/master/c.gif)# ViveVRProjection
+![result](https://github.com/fmacro/RealtimeProjectionMappingByViveTracker/blob/master/c.gif)
